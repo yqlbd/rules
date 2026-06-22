@@ -3,15 +3,10 @@ DOMAIN-SUFFIX,onelink.me
 DOMAIN,saily.onelink.me
 DOMAIN-SUFFIX,nordsecurity.com
 DOMAIN-SUFFIX,nordvpn.com
-DOMAIN-SUFFIX,talkatone.com
-DOMAIN-SUFFIX,talkatone.zendesk.com
-DOMAIN-SUFFIX,tktn.be
 DOMAIN-SUFFIX,tktn.at
+DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,tktn.be
 DOMAIN-KEYWORD,talkatone
-DOMAIN-SUFFIX,ooma.com
-IP-CIDR,198.20.1.0/24,no-resolve
-DOMAIN-SUFFIX,flurry.com
-DOMAIN-SUFFIX,teemo.co
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleapis.com

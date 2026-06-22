@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,talkatone.com
 DOMAIN-SUFFIX,talkatone.zendesk.com
 DOMAIN-SUFFIX,ooma.com
+IP-CIDR,198.20.1.0/24,no-resolve
+DOMAIN-SUFFIX,flurry.com
+DOMAIN-SUFFIX,teemo.co
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleapis.com

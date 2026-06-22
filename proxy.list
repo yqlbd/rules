@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,nordsecurity.com
 DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,talkatone.com
 DOMAIN-SUFFIX,talkatone.zendesk.com
+DOMAIN-SUFFIX,tktn.be
 DOMAIN-SUFFIX,ooma.com
 IP-CIDR,198.20.1.0/24,no-resolve
 DOMAIN-SUFFIX,flurry.com
